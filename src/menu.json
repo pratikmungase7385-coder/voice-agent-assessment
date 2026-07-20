@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "name": "Paneer Tikka",
+      "price": 250,
+      "available": true,
+      "description": "Spicy grilled paneer cubes"
+    },
+    {
+      "name": "Veg Spring Roll",
+      "price": 180,
+      "available": true,
+      "description": "Crispy vegetable rolls"
+    },
+    {
+      "name": "French Fries",
+      "price": 120,
+      "available": true,
+      "description": "Golden crispy potato fries"
+    },
+    {
+      "name": "Veg Biryani",
+      "price": 220,
+      "available": false,
+      "description": "Aromatic rice with vegetables"
+    },
+    {
+      "name": "Paneer Biryani",
+      "price": 260,
+      "available": true,
+      "description": "Flavorful biryani with paneer"
+    },
+    {
+      "name": "Margherita Pizza",
+      "price": 350,
+      "available": true,
+      "description": "Classic cheese pizza"
+    },
+    {
+      "name": "Veg Burger",
+      "price": 150,
+      "available": true,
+      "description": "Burger with vegetable patty"
+    },
+    {
+      "name": "Pasta Alfredo",
+      "price": 280,
+      "available": true,
+      "description": "Creamy white sauce pasta"
+    },
+    {
+      "name": "Coke",
+      "price": 50,
+      "available": true,
+      "description": "Chilled soft drink"
+    },
+    {
+      "name": "Pepsi",
+      "price": 50,
+      "available": true,
+      "description": "Refreshing cola drink"
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 120,
+      "available": true,
+      "description": "Iced coffee with milk"
+    },
+    {
+      "name": "Chocolate Brownie",
+      "price": 140,
+      "available": true,
+      "description": "Rich chocolate brownie dessert"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "price": 90,
+      "available": true,
+      "description": "Creamy vanilla flavored ice cream"
+    },
+    {
+      "name": "Mango Shake",
+      "price": 110,
+      "available": false,
+      "description": "Fresh mango milkshake"
+    },
+    {
+      "name": "Garlic Bread",
+      "price": 130,
+      "available": true,
+      "description": "Toasted bread with garlic butter"
+    }
+  ]
+}
